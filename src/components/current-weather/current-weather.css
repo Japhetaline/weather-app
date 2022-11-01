@@ -51,6 +51,10 @@ width: 100px;
     justify-content: space-between;
 }
 
+.parameter-label-details{
+    font-weight: 600;
+}
+
 .parameter-label{
     text-align: left;
     font-weight: 400;
