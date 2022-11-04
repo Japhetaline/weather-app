@@ -62,11 +62,8 @@ const Forecast = ({ data }) => {
                     </AccordionItem>
                 ))}
 
-            </Accordion> <br />
+            </Accordion>
 
-            <div className="author">
-                <span>Coded by Japhetaline</span>
-            </div>
         </>
     )
 }
